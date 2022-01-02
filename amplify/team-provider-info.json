@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iosplay-dev-180734-authRole",
+      "UnauthRoleArn": "arn:aws:iam::120131093920:role/amplify-iosplay-dev-180734-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::120131093920:role/amplify-iosplay-dev-180734-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-iosplay-dev-180734-deployment",
+      "UnauthRoleName": "amplify-iosplay-dev-180734-unauthRole",
+      "StackName": "amplify-iosplay-dev-180734",
+      "StackId": "arn:aws:cloudformation:eu-north-1:120131093920:stack/amplify-iosplay-dev-180734/7037af80-6bab-11ec-9db7-06ef5853451e",
+      "AmplifyAppId": "d3u7uejdq4b20i"
+    },
+    "categories": {
+      "auth": {
+        "iosplay7022b3b5": {},
+        "true": {}
+      }
+    }
+  }
+}

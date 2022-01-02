@@ -1,0 +1,18 @@
+{
+  "resourceName": "s37825bbc8",
+  "policyUUID": "7825bbc8",
+  "bucketName": "iosplay68e255c4c9bf47e099c4b3076edbab9d",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
